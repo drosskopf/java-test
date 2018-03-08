@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: org.movoto.selenium.example.AppTest
+Test set: app.test.DaveTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.095 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.383 sec
